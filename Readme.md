@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://tushartak17.github.io/Portfolio/
+> https://tushar-tak.github.io/Portfolio/
 
 :star: Star me on GitHub — it helps!
 
@@ -22,7 +22,7 @@
   
 # Tushar Tak's Portfolio
 
-Welcome to my personal portfolio! You can view my portfolio live at [Tushar Tak's Portfolio](https://tushartak17.github.io/Portfolio/).
+Welcome to my personal portfolio! You can view my portfolio live at [Tushar Tak's Portfolio](https://tushar-tak.github.io/Portfolio/).
 
 ## About Me ℹ️
 Dynamic and results-oriented B.Tech student from Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT) Jaipur, specializing in software development. Proficient in programming languages such as C, C++, and Java, with a keen interest in leveraging technology to drive innovation. Seeking to apply internship experiences to contribute effectively to dynamic projects within a progressive organization.
